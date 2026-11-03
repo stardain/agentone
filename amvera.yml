@@ -5,4 +5,4 @@ meta:
     version: 3.13
 
 run:
-  scriptName: main.py
+  scriptName: agent.py
